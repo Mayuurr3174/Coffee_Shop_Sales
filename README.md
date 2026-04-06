@@ -110,13 +110,7 @@ The Excel dashboard covers:
 
 **Mayur** — CS/IT Student | Data Enthusiast  
 📍 Pune, Maharashtra, India  
-🔗 [LinkedIn](#) • [GitHub](#) • [Portfolio](#)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+🔗 [LinkedIn](https://www.linkedin.com/in/mayuryadav3174/) • [GitHub](https://github.com/Mayuurr3174)
 
 ---
 
