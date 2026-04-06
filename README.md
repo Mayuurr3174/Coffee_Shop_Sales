@@ -27,9 +27,10 @@ This project analyzes real-world retail sales data from a coffee shop chain usin
 ```
 coffee-shop-sales-analysis/
 │
-├── Coffee_Shop_Sales_RAW_.xlsx         # Original raw transactional dataset
-├── Coffee_Shop_Sales_Dashboard.xlsx    # Cleaned data + interactive Excel dashboard
 ├── Coffee_Shop_Sales_Analysis.pdf      # Project overview and analysis objectives
+├── Coffee_Shop_Sales_Dashboard.xlsx    # Cleaned data + interactive Excel dashboard
+├── Coffee_Shop_Sales_RAW_.xlsx         # Original raw transactional dataset
+├── Dashboard.png                       # Actual Screenshot of Dashboard
 └── README.md                           # Project documentation
 ```
 
